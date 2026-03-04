@@ -10,4 +10,4 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>com.mycompany.tareasemana12.TareaSemana12</exec.mainClass>
     </properties>
-</project>
+</project> 
